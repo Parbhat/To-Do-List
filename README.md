@@ -9,7 +9,7 @@ The Django version used is **1.7.1**
 
 This Web Application uses **TDD (Test Driven Development)** strategy for development.Code is written after a test.
 
-![TDD](/http://i.imgur.com/NMjYd8f.gif)
+![TDD](http://i.imgur.com/NMjYd8f.gif)
 
 ##  Creating a local development environment using virtualenv(wrapper) and pip
 ### Use pip to install virtualenv and virtualenvwrapper
